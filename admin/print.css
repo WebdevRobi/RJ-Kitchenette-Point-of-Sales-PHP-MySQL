@@ -1,0 +1,15 @@
+<style>
+    @media print {
+        body * {
+            visibility: hidden; /* Hide everything */
+        }
+        .printable-area, .printable-area * {
+            visibility: visible; /* Show only printable area */
+        }
+        .printable-area {
+            position: absolute; 
+            left: 0; 
+            top: 0; /* Positioning for printing */
+        }
+    }
+</style>

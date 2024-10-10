@@ -1,0 +1,1 @@
+<link rel="icon" type="image/png" href="img/web-icon.png"> <!-- Make sure this points to your round favicon -->

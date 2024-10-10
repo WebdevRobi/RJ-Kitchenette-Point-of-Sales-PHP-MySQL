@@ -1,0 +1,44 @@
+Array
+(
+    [orderSummary] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Carrots
+                    [quantity] => 1
+                    [subtotal] => 60
+                    [photo] => carrots-large-1.jpg
+                )
+
+        )
+
+    [totalAmount] => 60
+    [paymentMethod] => cash
+    [date] => 2024-10-04 08:00:59
+)
+Array
+(
+    [orderSummary] => Array
+        (
+            [0] => Array
+                (
+                    [name] => Carrots
+                    [quantity] => 1
+                    [subtotal] => 60
+                    [photo] => carrots-large-1.jpg
+                )
+
+            [1] => Array
+                (
+                    [name] => Carrots
+                    [quantity] => 1
+                    [subtotal] => 60
+                    [photo] => carrots-large-1.jpg
+                )
+
+        )
+
+    [totalAmount] => 120
+    [paymentMethod] => cash
+    [date] => 2024-10-04 08:02:20
+)
